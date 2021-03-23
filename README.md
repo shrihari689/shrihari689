@@ -14,6 +14,7 @@
 ## 👀 GitHub Stats
 
 ![Shri Hari L's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrihari689&count_private=true&show_icons=true&hide=stars&include_all_commits=true)
+![Shri Hari L's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=shrihari689&count_private=true&show_icons=true&hide=stars&include_all_commits=true)
 
 ## 📫 How to reach me:
 
