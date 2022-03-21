@@ -7,7 +7,7 @@
 ---
 
 - 🔭 I’m currently working on Open Source Projects
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on fun projects
 - ⚡ Fun fact: I will be sleeping all the time
 
